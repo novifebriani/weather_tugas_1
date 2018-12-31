@@ -1,12 +1,12 @@
-# Weather widget dengan expo dan react code
-Tugas 2 pemrograman mobile 
-- nim  : 2015150083
-- nama : Rahman hidayat
+# Weather tugas 1
+Tugas 1 pemrograman mobile 
+- nim  : 2015150002
+- nama : Novi Febriani
 
 --------Scan QR Code---------
 
 
-![Scan This QR](https://github.com/frankzealot/weatherwidget/blob/master/qr.png)
+![Scan This QR]<br><br><img src="novi1.png">
 
 
 
